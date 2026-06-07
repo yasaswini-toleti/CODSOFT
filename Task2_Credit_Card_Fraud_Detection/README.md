@@ -9,6 +9,13 @@ This project uses Machine Learning to detect fraudulent credit card transactions
 - Random Forest
 
 ## Dataset
+
+The dataset is too large to upload to GitHub.
+
+Download from:
+https://www.kaggle.com/datasets/kartik2112/fraud-detection
+
+Files used:
 - fraudTrain.csv
 - fraudTest.csv
 
